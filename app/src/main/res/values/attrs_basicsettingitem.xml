@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="BasicSettingItem">
+		<attr name="bsi_backgroundColor" format="color" />
+		<attr name="bsi_iconTint" format="color" />
+		<attr name="bsi_icon" format="reference" />
+		<attr name="bsi_title" format="string" />
+		<attr name="bsi_textColor" format="color" />
+		<attr name="bsi_content" format="string" />
+		<attr name="bsi_radius" format="dimension" />
+	</declare-styleable>
+</resources>
